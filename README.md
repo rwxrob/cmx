@@ -1,6 +1,6 @@
 # Record and Stream to Multiple Services
 
-![🏖️ Sandbox (WIP)](https://img.shields.io/badge/status-wip-red)
+🏖️ Sandbox (WIP)
 
 CommPlex is a simple communications utility for live streaming to
 multiple services concurrently and periodically saving and publishing
